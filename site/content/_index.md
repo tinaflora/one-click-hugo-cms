@@ -1,6 +1,6 @@
 ---
 title: Designing with a conscience
-subtitle: xyz
+subtitle: test
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
