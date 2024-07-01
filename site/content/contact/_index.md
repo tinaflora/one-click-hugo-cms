@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/logo-right.svg"
 contact_entries:
   - heading: Office Address
     text: "11 McBride Path, Glasgow, G33 6FE"
