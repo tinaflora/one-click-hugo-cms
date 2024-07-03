@@ -1,17 +1,15 @@
 ---
-title: Designing with a conscience
-subtitle: test abcdefg
-image: /img/home-jumbotron.jpg
+title: Elevate Your Home with Expert Design and Decor
+subtitle: " "
+image: img/pexels-camcasey-1702497.jpg
 blurb:
-  heading: Why Happy Earth Architecture?
-  text: Happy Earth Architecture is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Welcome to Happy Earth Architecture
+  text: At Happy Earth Architecture, we specialize in creating sustainable and
+    beautiful homes. From detailed design to exquisite decoration, we are
+    dedicated to transforming your living space into a perfect blend of
+    functionality and aesthetics. Discover how we can help bring your vision to
+    life with innovative and eco-friendly solutions.
 intro:
-  heading: What we do
-  text: Happy Earth Architecture is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: " "
+  text: " "
 ---
