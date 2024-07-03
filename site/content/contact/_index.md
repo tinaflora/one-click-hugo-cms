@@ -1,6 +1,7 @@
 ---
-title: "Contact"
+title: "Contact Us"
 logo: "/img/logo3.svg"
+image: img/pexels-camcasey-1702497.jpg
 contact_entries:
   - heading: Office Address
     text: "11 McBride Path, Glasgow, G33 6FE"
